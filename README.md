@@ -16,4 +16,4 @@
 
 
 # 레퍼런스
-- https://github.com/techinpark/awesome-devblog 
+- https://github.com/sarojaba/awesome-devblog
