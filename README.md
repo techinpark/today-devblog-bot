@@ -1,7 +1,7 @@
 # today-devblog-bot
 📨 매일 오전 8시 개발자님들의 블로그 글을 슬랙 채널로 편하게 보내드려요
 
-![.github/workflows/node.yml](https://github.com/techinpark/today-devblog-bot/workflows/.github/workflows/node.yml/badge.svg)
+![node.js CI](https://github.com/techinpark/today-devblog-bot/workflows/node.js%20CI/badge.svg?branch=master)
 ![techinpark/appstore-review-bot license](https://img.shields.io/github/license/techinpark/today-devblog-bot?color=blue)
 ![stars](https://img.shields.io/github/stars/techinpark/today-devblog-bot?color=yellow&style=social)
 
